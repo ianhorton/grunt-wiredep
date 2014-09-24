@@ -19,7 +19,7 @@
     "component",
     "postinstall"
   ],
-  "repository": "stephenplusplus/grunt-wiredep",
+  "repository": "ianhorton/grunt-wiredep",
   "licenses": [
     {
       "type": "MIT",
