@@ -34,6 +34,6 @@
     "grunt": "~0.4.0"
   },
   "dependencies": {
-    "wiredep": "^1.5.0"
+    "wiredep": "https://github.com/ascoro/wiredep.git"
   }
 }
